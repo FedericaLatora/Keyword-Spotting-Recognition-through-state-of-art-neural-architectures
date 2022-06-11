@@ -30,3 +30,5 @@ This folder has the following structure:
     	  ├──wrong_predictions
       	├──rnn_architecture
       	└──att_rnn_architecture
+
+</pre>
