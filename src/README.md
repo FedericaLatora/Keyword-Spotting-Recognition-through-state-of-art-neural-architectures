@@ -30,7 +30,8 @@ This folder has the following structure:
     │
     │
     └── model			<- scripts for training, evaluation and prediction
-	      ├──reshape
+	  ├──reshape
+	  ├──normalize
     	  ├──plot_history
     	  ├──plot_confusion_matrix
     	  ├──wrong_predictions
