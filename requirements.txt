@@ -1,0 +1,9 @@
+tensorflow>=2
+pandas>=0.25
+librosa>=0.8
+python_speech_features
+wave 
+tqdm
+matplotlib
+graphviz
+pydot
