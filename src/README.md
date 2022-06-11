@@ -21,6 +21,11 @@ This folder has the following structure:
     │
     ├── features		<- scripts for feature extraction
     │ 	├──mfcc_feature_extraction
+    │ 	├──energy
+    │ 	├──short_time_energy
+    │ 	├──zero_crossings
+    │ 	├──mean_energies
+    │ 	├──root_mean_square_energy
     │ 	└──log_specgram
     │
     │
