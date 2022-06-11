@@ -1,5 +1,5 @@
 This folder has the following structure:
-
+<pre>
 └── src				<- folder containing project source code
     ├── data			<- scripts to download/generate data
     │ 	├──stratified_sampling
