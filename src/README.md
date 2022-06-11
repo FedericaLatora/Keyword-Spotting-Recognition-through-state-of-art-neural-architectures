@@ -3,7 +3,8 @@ This folder has the following structure:
 └── src				<- folder containing project source code
     ├── data			<- scripts to download/generate data
     │ 	├──stratified_sampling
-    │	  ├──extract_random_audio
+    │	├──extract_audio
+    │	├──extract_random_audio
     │ 	├──shuffle
     │ 	├──save_json
     │ 	├──import_data_dictionary
@@ -14,8 +15,8 @@ This folder has the following structure:
     │ 	├──add_random_noise
     │ 	├──envelope_coefficients
     │ 	├──set_dark_theme
-    │	  ├──plot_audio
-    │	    ├──plot_attention
+    │	├──plot_audio
+    │	├──plot_attention
     │	└──plots_attention_dataset
     │
     ├── features		<- scripts for feature extraction
