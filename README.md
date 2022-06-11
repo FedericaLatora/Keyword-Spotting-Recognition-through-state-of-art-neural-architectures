@@ -57,12 +57,14 @@ It follows the tree structure of the project:
 │             ├── wow
 │             ├── yes
 │             └── zero
-├── models			<- notebooks for experimental purposes for modeling (comparison, ensemble, ...)
-├── notebooks			<- prototyping notebooks for EDA, feature selection, ...
-└── src				<- folder containing project source code
+├── documents		    <- folder containing dictionaries and list of processed audio files during feature and pre-processing phases
+├── models		    	<- folder containing the models in .h5 format
+├── notebooks			<- prototyping notebooks for EDA, feature selection, experimental purposes for modeling (comparison, ensemble, ...)
+└── src				    <- folder containing project source code
     ├── data			<- scripts to download/generate data
     ├── features		<- scripts for feature extraction
     └── model			<- scripts for training, evaluation and prediction
+	
 	
 </pre>
 
